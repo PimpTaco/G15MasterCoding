@@ -1,0 +1,30 @@
+h1{
+color: aquamarine; background-color: black; border-width: 10px; border-color: orangered;
+}
+h2{
+    color: black; background-color: cadetblue;
+} 
+#descripcion_pag{
+    color: orange;
+}
+#random_text{
+    color: rebeccapurple; font-size: 40px; display: inline;
+}
+.tipo1{
+    color: indigo;
+}
+.tipo2{
+    color: palevioletred;
+}
+.tipo3{
+    text-align: center;
+}
+#link1{
+    padding: 10px; border: 10px; border-color: black;
+}
+#link2{
+    padding: 20px;margin: 15px;
+}
+#link3{
+    padding: 30px;
+}

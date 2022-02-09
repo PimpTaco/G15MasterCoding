@@ -1,0 +1,8 @@
+body{
+    background-color: rgba(0, 0, 0, 0.877);
+}
+
+.navbar{
+    border: 1px solid white;
+    height: 80px;
+}
