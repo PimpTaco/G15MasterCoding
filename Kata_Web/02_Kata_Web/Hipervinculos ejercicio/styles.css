@@ -1,0 +1,18 @@
+body{
+    color: gray
+}
+h1{
+color: aquamarine; background-color: black;
+}
+h2{
+    color: black; background-color: cadetblue;
+}
+li{
+    color: coral; background-color: black;
+}  
+ul{
+    color: darkgreen;
+}     
+#descripcion_pag{
+    color: blue;
+}

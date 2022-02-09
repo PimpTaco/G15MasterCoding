@@ -1,0 +1,52 @@
+html{
+    font-size: 16px;
+}
+
+.contenedor{
+    font-size: 10px;
+}
+
+.contenedor h1{
+    font-size: 3em;
+}
+
+h1{
+    font-size: 3rem;
+}
+
+h2{
+    font-size: 2rem;
+}
+
+div{
+    width: 100vw;
+    height: 200px;
+    
+}
+
+@media only screen and (max-width: 1500px){
+    div{
+        background-color: aquamarine;
+    }
+}
+
+@media only screen and (max-width: 1300px){
+    div{
+        background-color: royalblue;
+    }
+}
+
+@media only screen and (max-width: 1000px){
+    div{
+        background-color: greenyellow;
+        
+    }
+}
+
+@media only screen and (max-width: 700px){
+    div{
+        background-color: palevioletred;
+    }
+}
+
+
