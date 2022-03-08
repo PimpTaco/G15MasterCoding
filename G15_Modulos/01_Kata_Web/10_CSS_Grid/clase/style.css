@@ -1,0 +1,15 @@
+.container{
+    display: grid;
+    width: 1000px;
+    height: 800px;
+    grid-template-columns: 200px 250px 350px 200px;
+    grid-template-columns: repeat(4, 150px);
+    grid-template-columns: 50% 15% 200px;
+    grid-template-columns: 1fr 2fr 3fr;
+    grid-template-rows:  25%;
+    grid-template: columnas / filas ;
+}
+
+div{
+    border: black 2px solid;
+}

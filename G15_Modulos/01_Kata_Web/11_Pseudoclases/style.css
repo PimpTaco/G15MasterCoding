@@ -1,0 +1,39 @@
+.divuno{
+    display: flex;
+    flex-direction: column;
+}
+
+p{
+    display: none;
+    color: aliceblue;
+}
+
+/* a:hover + p{
+    background-color: green;
+    display: block;
+} */
+
+a:hover + p{
+    background-color: green;
+    display: inline;
+}
+
+a:visited{
+    color: orangered;
+}
+
+a:active{
+    background-color: greenyellow;
+}
+
+textarea:active{
+    background-color: bisque;
+}
+
+textarea:visited{
+    background-color: pink;
+}
+
+.linkdos{
+    text-decoration: none;
+}
